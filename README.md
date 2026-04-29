@@ -46,4 +46,4 @@ python main.py
 <!-- ![ATM UI Screenshot](screenshot.png) -->
 
 ## 👨‍💻 Author
-**Harsh Yadav** (Branch: CSE-DS)
+**Laiba Noor** (Branch: CSE-DS)
